@@ -1,0 +1,16 @@
+VARIABLE: es la forma de almacenar algun valor para mas 
+adelante ser usado.
+STRINGS: es un bloque de texto, tambien es llamado "cadena"
+es todo el texto que esta dentro de comillas simples o 
+dobles.
+FUNCIONES: son una parte fundamental dentro de la
+programación, son objetos a los que se les llama callable
+object.
+   ARGUMENTOS: son los valores que se pasan a la función
+cuando esta es invocada.
+DECLARACIONES: son instrucciones que son separadas por 
+punto y coma.
+VALORES BOOLEANOS: es un concepto que alimenta el codigo 
+binario o el nucleo de las computadoras. En JS es true o 
+false.
+ 
